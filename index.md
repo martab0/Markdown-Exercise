@@ -53,8 +53,22 @@ This is a code block:
  #### Internal
 
  Link to file example: [additional information](reference.md)
+
+ ### Images
+
+ #### External
+
+![random image](https://picsum.photos/100)
+
+ #### Internal
+
+ ![bread](Easy_white_bread.jpg)
+
+ Bad practice:
+ ![other_path](../../../Desktop/Z_pulpitu/swans.jpg)
  
- 
+Good practice:
+![other_path](../Markdown-Exercise/Photos/swans.jpg)
 
 
 
