@@ -1,4 +1,25 @@
-# Title
+# Title <!-- omit in toc -->
+
+- [Visual elements (Nagłówek poziom 1)](#visual-elements-nagłówek-poziom-1)
+  - [Bold (Nagłówek poziom 2)](#bold-nagłówek-poziom-2)
+  - [Italic (Nagłówek poziom 2)](#italic-nagłówek-poziom-2)
+  - [Quote](#quote)
+  - [Code and formulas](#code-and-formulas)
+    - [Code frase](#code-frase)
+    - [Code block](#code-block)
+- [Linking elements](#linking-elements)
+  - [Links to content](#links-to-content)
+    - [External](#external)
+    - [Internal](#internal)
+  - [Images](#images)
+    - [External](#external-1)
+    - [Internal](#internal-1)
+- [Lists](#lists)
+  - [ordered](#ordered)
+  - [unordered](#unordered)
+- [Tables](#tables)
+
+
 This is the first paragraph of my file.
 
 This is the second paragraph of my file.
@@ -7,13 +28,13 @@ This is the trird paragraph of my file.
 This is the fourth paragraph of my file.  
 This is the fifth paragraph of my file.
 
-## Nagłówek (poziom 1) Visual elements
+## Visual elements (Nagłówek poziom 1)
 
-### Nagłówek poziom 2 Bold
+### Bold (Nagłówek poziom 2)
 
 This is **bold** text.
 
-### Nagłówek (poziom 2) Italic
+### Italic (Nagłówek poziom 2)
 
 This is *italic* text.  
 This is *italic* text.
