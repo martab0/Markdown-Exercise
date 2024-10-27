@@ -70,7 +70,21 @@ This is a code block:
 Good practice:
 ![other_path](../Markdown-Exercise/Photos/swans.jpg)
 
+## Lists
 
+### ordered
 
- 
+ 1. Point 1
+ 2. Point 2
+ 3. Point 3  
+    1.  
+    2.
+ 1. <- bad practice (when read by people)
+
+### unordered
+
+- first bullet
+- second bullet
+- another bullet
+
 
