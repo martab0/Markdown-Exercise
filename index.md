@@ -6,3 +6,36 @@ This is the second paragraph of my file.
 This is the trird paragraph of my file.  
 This is the fourth paragraph of my file.  
 This is the fifth paragraph of my file.
+
+## Nagłówek poziom 1 Visual elements
+
+### Nagłówek poziom 2 Bold
+
+This is **bold** text.
+
+### Nagłówek poziom 2 Italic
+
+This is *italic* text.  
+This is *italic* text.
+
+### Quote
+
+This is a quote:
+> This is a quote.  
+ This is a second quote.
+
+ ### Code and formulas
+
+#### Code frase
+
+This is a text with `void` code phrase. Used to highlight text as a box, for example code etc.
+
+#### Code block
+
+This is a code block:
+
+```
+  <data name="ErrorHeader" xml:space="preserve">
+<value>Error</value>
+</data>
+ ```
