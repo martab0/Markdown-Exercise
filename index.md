@@ -6,7 +6,9 @@
   - [Quote](#quote)
   - [Code and formulas](#code-and-formulas)
     - [Code frase](#code-frase)
+    - [Formula](#formula)
     - [Code block](#code-block)
+    - [Formula block](#formula-block)
 - [Linking elements](#linking-elements)
   - [Links to content](#links-to-content)
     - [External](#external)
@@ -51,6 +53,10 @@ This is a quote:
 
 This is a text with `void` code phrase. Used to highlight text as a box, for example code etc.
 
+#### Formula
+
+This is a formula. $a+b=c$
+
 #### Code block
 
 This is a code block:
@@ -60,6 +66,15 @@ This is a code block:
 <value>Error</value>
 </data>
  ```
+
+#### Formula block
+
+ This is a formula block:
+ 
+  $$
+  a+b=c
+  $$
+ 
 
  ## Linking elements
 
