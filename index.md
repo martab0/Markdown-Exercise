@@ -7,13 +7,13 @@ This is the trird paragraph of my file.
 This is the fourth paragraph of my file.  
 This is the fifth paragraph of my file.
 
-## Nagłówek poziom 1 Visual elements
+## Nagłówek (poziom 1) Visual elements
 
 ### Nagłówek poziom 2 Bold
 
 This is **bold** text.
 
-### Nagłówek poziom 2 Italic
+### Nagłówek (poziom 2) Italic
 
 This is *italic* text.  
 This is *italic* text.
@@ -39,3 +39,18 @@ This is a code block:
 <value>Error</value>
 </data>
  ```
+
+ ## Linking elements
+
+ ### Links to content
+
+ #### External
+
+ Exaple: https://www.meteo.pl/
+ 
+ [Weather forecast](https://www.meteo.pl/)
+
+ 
+
+ 
+
